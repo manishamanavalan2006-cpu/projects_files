@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.image{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    margin-top: 5vh;
+    
+}
+.main-heading{
+    font-family: "Roboto";
+    font-size: "28px";
+    font-weight: 900;
+    color:#000000;
+    
+ }
+
+.space{
+    padding: 3vh;
+    
+}
+
+.top-margin{
+    margin-top: 3vh;
+}
+.main-para{
+    color:#ed6853;
+    font-weight: 600;
+    padding: 3px;
+}
+.image1{
+    height: 50px;
+    width: 50px;
+    
+}
+.carousel-container{
+   width: 100%;
+   max-width: 95%;
+   height: 700px;
+   margin: auto;
+   overflow: hidden;
+   margin-bottom: 0px; /*remove bottom margin*/
+   padding-bottom: 0px;  /*remove padding*/
+}
+.carousel-item img{
+    width: 10%;
+    height: 80%;
+    object-fit: cover;
+}
+.bottom-heading{
+    font-size: 27px;
+    font-weight: 800;
+    font-family: "Roboto";
+    color:#2b2b2b;
+    margin-left: 5.5vh;
+    padding-top: 0px;
+    margin-top: 3vh;
+
+}
+.bottom-para{
+    font-size: 17px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color:#7d7c7c;
+    margin-left: 6vh;
+    margin-top: 5px;
+   
+}
+.custom-card{
+    width:100vw;
+    margin: 3vh;
+}
+.space{
+    padding: 3vh;
+    margin: 3vh;
+}
